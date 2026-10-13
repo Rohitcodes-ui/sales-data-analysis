@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price
+1001,2025-01-05,Keyboard,Electronics,2,1200
+1002,2025-01-08,Mouse,Electronics,3,500
+1003,2025-01-15,Notebook,Stationery,10,80
+1004,2025-02-03,Monitor,Electronics,1,8500
+1005,2025-02-10,Pen,Stationery,20,25
+1006,2025-02-18,Keyboard,Electronics,1,1200
+1007,2025-03-02,Notebook,Stationery,15,80
+1008,2025-03-11,Mouse,Electronics,4,500
+1009,2025-03-20,Desk,Furniture,1,6500
+1010,2025-04-04,Chair,Furniture,2,3200
+1011,2025-04-12,Pen,Stationery,30,25
+1012,2025-04-22,Monitor,Electronics,2,8500
+1013,2025-05-06,Desk,Furniture,1,6500
+1014,2025-05-14,Mouse,Electronics,5,500
+1015,2025-05-25,Chair,Furniture,3,3200
