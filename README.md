@@ -36,3 +36,9 @@ This project uses a small fictional dataset for educational and portfolio purpos
 
 ## Skills Demonstrated
 Data analysis, revenue calculations, Pandas groupby operations, date handling, data visualization, and Excel reporting.
+
+## Monthly Sales Chart
+![Monthly Sales](monthly_sales.png)
+
+## Product Quantity Chart
+![Top Products](top_products.png)
